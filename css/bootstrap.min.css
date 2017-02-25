@@ -23,6 +23,10 @@ h1 {
     background-size: cover;
   }
 
+  .header{
+    margin-top:-100px
+  }
+
   .container {
     max-width: 940px;
     margin: 0 auto;

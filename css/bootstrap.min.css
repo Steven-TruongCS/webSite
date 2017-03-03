@@ -6,7 +6,6 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 h1 {
-
   font-family:Sansita;
 }
 html, body {
@@ -20,9 +19,7 @@ html, body {
   padding: 0 10px;
 }
 
-.header {
-  background-color: #333333;
-}
+
 
 .jumbotron {
   background-image: url('https://i.ytimg.com/vi/1PEKnE8Z8Mg/maxresdefault.jpg');
@@ -33,8 +30,8 @@ html, body {
 }
 
 .nav {
-  margin: 0;
-  padding: 20px 0;
+  margin: 10px;
+  padding: 25px 20px;
 }
 
 .nav li {

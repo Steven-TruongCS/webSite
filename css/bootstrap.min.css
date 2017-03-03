@@ -25,7 +25,7 @@ html, body {
 }
 
 .jumbotron {
-  background-image: url('http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg');
+  background-image: url('https://i.ytimg.com/vi/1PEKnE8Z8Mg/maxresdefault.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -55,8 +55,6 @@ html, body {
 
 .main h1 {
   color: #333;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
   font-size: 70px;
   margin-top: 0;
   margin-bottom: 80px;

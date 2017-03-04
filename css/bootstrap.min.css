@@ -19,7 +19,9 @@ html, body {
   padding: 0 10px;
 }
 
-
+li {
+  font-size:20px;
+}
 
 .jumbotron {
   background-image: url('https://i.ytimg.com/vi/1PEKnE8Z8Mg/maxresdefault.jpg');
